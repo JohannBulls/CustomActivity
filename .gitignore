@@ -1,0 +1,16 @@
+# Archivos de dependencias
+node_modules/
+
+# Archivo de variables de entorno
+# ¡MUY IMPORTANTE! Nunca subir este archivo.
+.env
+
+# Archivos de registro (logs)
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db

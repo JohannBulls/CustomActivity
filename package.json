@@ -1,0 +1,19 @@
+{
+  "name": "CustomActivity",
+  "version": "1.0.0",
+  "description": "Actividad personalizada para SFMC con Gemini",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "sfmc",
+    "journey-builder",
+    "gemini"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^17.2.1"
+  }
+}
